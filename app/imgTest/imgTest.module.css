@@ -1,0 +1,19 @@
+.container {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  height: 100%;
+}
+.button_container {
+  margin-top: 20px;
+  display: flex;
+  gap: 60px;
+}
+.button {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+}
