@@ -1,0 +1,14 @@
+.main {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
+.link:hover {
+  text-decoration: underline;
+}

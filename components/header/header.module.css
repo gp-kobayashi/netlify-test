@@ -1,0 +1,33 @@
+.header {
+  margin: 0 auto;
+  height: 60px;
+  padding: 0 20px;
+  border-bottom: 3px solid #e0e0e0;
+}
+.container {
+  max-width: 960px;
+  width: 90%;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+.navList {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  border-bottom: 2px solid gray;
+}
